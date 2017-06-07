@@ -1,0 +1,3 @@
+# as this just needs compile files we leave out any .ts file
+
+*.ts
